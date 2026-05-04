@@ -9,7 +9,7 @@ describe("Royaltide", function () {
     
     beforeEach(async function () { 
         [owner, user1] = await ethers.getSigners(); 
-        const Contract = await ethers.getContractFactory("Royaltide");
+        const Contract = await ethers.getContractFactory("Royaltide"); 
         contract = await Contract.deploy();
         await contract.waitForDeployment();
     });
