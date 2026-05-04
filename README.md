@@ -5,7 +5,7 @@
 </div>
 </p>
 
-<h1 align="center"> (Real)AGI 🌐 </h1>
+<h1 align="center"> (Real)AGI 🌐 </h1> 
 <p align="center"><strong>A very real AGI that can maybe help you with your predictions. maybe.</strong></p>
 
 ---
